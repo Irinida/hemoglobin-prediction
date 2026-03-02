@@ -1,0 +1,6 @@
+Collecting opencv-python
+  Using cached opencv_python-4.13.0.92-cp37-abi3-win_amd64.whl.metadata (20 kB)
+Requirement already satisfied: numpy>=2 in c:\users\ad-21\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from opencv-python) (2.4.2)
+Using cached opencv_python-4.13.0.92-cp37-abi3-win_amd64.whl (40.2 MB)
+Installing collected packages: opencv-python
+Successfully installed opencv-python-4.13.0.92
